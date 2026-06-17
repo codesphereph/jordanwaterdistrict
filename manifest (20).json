@@ -1,0 +1,16 @@
+{
+  "name": "Jordan Water District",
+  "short_name": "JWD",
+  "description": "Jordan Water District — pay your water bill online, apply for services, check billing inquiries and public advisories.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0c1c80",
+  "theme_color": "#1226a3",
+  "categories": ["utilities", "government", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
